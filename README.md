@@ -4,7 +4,8 @@
 <h1 align="center">Hi 👋, I'm Timo</h1>
 
 #### I am Full Stack developer
-I have a bachelor's degree in computer science. I've been involved in a few initiatives (individual, Public, Community). I'm familiar with a variety of programming languages, including Javascript, C#, and other technologies. Open to new opportunities.
+I'm a student and mentor at Microverse, currently learning web development in a remote multicultural environment, and getting experience by pair programming (drivernavigator method) with other students  In 2022, i love building projects and learning new skills 
+
 
 ![I am Full Stack developer (Junior)](https://i.pinimg.com/originals/3e/9d/52/3e9d52bc38fa287a4cf10dcf8139076d.gif)
 
@@ -21,7 +22,6 @@ I have a bachelor's degree in computer science. I've been involved in a few init
 
 | <a href="https://github.com/NickEmma/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=NickEmma&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="NickEmma's github stats" /></a> | <a href="https://github.com/NickEmma/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NickEmma&layout=compact&theme=buefy&hide_border=true" /></a> |
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NickEmma&ring=ff1493&sideNums=ff1493&stroke=0CFFD2&border=ff1493&background=05061d&sideLabels=0cffd2&dates=9457eb&fire=9457eb&currStreakLabel=0cffd2&currStreakNum=0cffd2&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=NickEmma) 
 
 
