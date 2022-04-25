@@ -21,7 +21,7 @@ I have a bachelor's degree in computer science. I've been involved in a few init
 
 | <a href="https://github.com/NickEmma/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=NickEmma&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="NickEmma's github stats" /></a> | <a href="https://github.com/NickEmma/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NickEmma&layout=compact&theme=buefy&hide_border=true" /></a> |
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=virag-ky&show_icons=true&title_color=ff1493&icon_color=9457eb&text_color=0CFFD2&bg_color=05061D&border_color=ff1493)](https://github.com/anuraghazra/github-readme-stats)        [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=virag-ky&ring=ff1493&sideNums=ff1493&stroke=0CFFD2&border=ff1493&background=05061d&sideLabels=0cffd2&dates=9457eb&fire=9457eb&currStreakLabel=0cffd2&currStreakNum=0cffd2&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NickEmma&ring=ff1493&sideNums=ff1493&stroke=0CFFD2&border=ff1493&background=05061d&sideLabels=0cffd2&dates=9457eb&fire=9457eb&currStreakLabel=0cffd2&currStreakNum=0cffd2&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 
 [![GitHub Game of Life](https://github4life.herokuapp.com/NickEmma.gif?z=6)](https://github4life.herokuapp.com/NickEmma)
