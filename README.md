@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![](https://img.shields.io/badge/Microverse-blueviolet)
+![Profile views](https://gpvc.arturio.dev/regiss05) 
+
 - 🔭 I’m currently working on ... Microverse Program
 - 🌱 I’m currently learning ... Artificial Intelligence
 - 👯 I’m looking to collaborate on ... comunity project
