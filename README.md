@@ -11,3 +11,5 @@
 - 📫 How to reach me: ... nicholasemmanuel321@gmail.com
 - ⚡ Fun fact: ... singing, playing drums and football
 -->
+
+[![GitHub Game of Life](https://github4life.herokuapp.com/NickEmma.gif?z=6)](https://github4life.herokuapp.com/NickEmma)
