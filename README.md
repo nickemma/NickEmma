@@ -1,17 +1,16 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
-![Profile views](https://gpvc.arturio.dev/regiss05) 
+![Profile views](https://gpvc.arturio.dev/NickEmma) 
 
-<h1 align="center">Hi 👋, I'm Timo</h1>
+<h1 align="center">Hi 👋, I'm Nicholas Emmanuel</h1>
 
 #### I am Full Stack developer
-I'm a student and mentor at Microverse, currently learning web development in a remote multicultural environment, and getting experience by pair programming (drivernavigator method) with other students  In 2022, i love building projects and learning new skills 
+I'm a student and mentor at Microverse, currently learning web development in a remote multicultural environment, and getting experience by pair programming (drivernavigator method) with other students  In 2022, i love building projects and learning new skills. HAPPY CODING 
 
 
 ![I am Full Stack developer (Junior)](https://i.pinimg.com/originals/3e/9d/52/3e9d52bc38fa287a4cf10dcf8139076d.gif)
 
 
 - 🔭 I’m currently working on ... Microverse Program
-- 🌱 I’m currently learning ... Artificial Intelligence
 - 👯 I’m looking to collaborate on ... comunity project
 - 🤔 I’m looking for help with ... other developer
 - 💬 Ask me about ... anything
@@ -20,9 +19,8 @@ I'm a student and mentor at Microverse, currently learning web development in a 
 - ⚡ Fun fact: ... singing, playing drums and football
 -->
 
-| <a href="https://github.com/NickEmma/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=NickEmma&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="NickEmma's github stats" /></a> | <a href="https://github.com/NickEmma/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NickEmma&layout=compact&theme=buefy&hide_border=true" /></a> |
+|<a href="https://github.com/NickEmma/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=NickEmma&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="NickEmma's github stats" /></a> | <a href="https://github.com/NickEmma/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NickEmma&layout=compact&theme=buefy&hide_border=true" /></a> |
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=NickEmma) 
-
 
 [![GitHub Game of Life](https://github4life.herokuapp.com/NickEmma.gif?z=6)](https://github4life.herokuapp.com/NickEmma)
