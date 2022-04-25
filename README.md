@@ -4,7 +4,9 @@
 <h1 align="center">Hi 👋, I'm Nicholas Emmanuel</h1>
 
 #### I am Full Stack developer
-I'm a student and mentor at Microverse, currently learning web development in a remote multicultural environment, and getting experience by pair programming (drivernavigator method) with other students  In 2022, i love building projects and learning new skills. HAPPY CODING 
+hi, i'm [Nicholas Emmanuel](https://NickEmma.me/), a passionate self-taught full stack web developer and a software engineer from Nigeria. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+
+I'm a student and at Microverse, i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source and learning new skills. HAPPY CODING 
 
 
 ![I am Full Stack developer (Junior)](https://i.pinimg.com/originals/3e/9d/52/3e9d52bc38fa287a4cf10dcf8139076d.gif)
