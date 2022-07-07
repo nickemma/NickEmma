@@ -16,6 +16,11 @@ I'm a student of Microverse, i am also an open-source enthusiast and maintainer.
 - ⚡ Fun fact: ... singing, playing drums and football
 
 |<a href="https://github.com/NickEmma/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=NickEmma&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="NickEmma's github stats" /></a> |
+
+
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=NickEmma) 
 
 [![GitHub Game of Life](https://github4life.herokuapp.com/NickEmma.gif?z=6)](https://github4life.herokuapp.com/NickEmma)
