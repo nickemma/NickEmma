@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Nicholas Emmanuel</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=30&color=7AF79A&lines=NickEmma+here...;I'm+a+full+stack+developer;I'm+available+for+hire;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=30&color=7AF79A&lines=Nicholas Emmanuel+here...;I'm+a+full+stack+developer;I'm+available+for+hire;)](https://git.io/typing-svg)
 
 ![line](./img/line.gif)
 
