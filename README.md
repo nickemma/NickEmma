@@ -25,7 +25,7 @@ I'm a student of Microverse, i am also an open-source enthusiast and maintainer.
 [<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />](https://mysql.com)
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />](https://git.com)
 
-
+<br/><br/>
 <a href="https://github.com/NickEmma/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=NickEmma&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="NickEmma's github stats" /></a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NickEmma&layout=compact&theme=buefy&hide_border=true" /></a>|
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=NickEmma) 
