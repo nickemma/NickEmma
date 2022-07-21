@@ -7,7 +7,7 @@
 
 ![line](./img/line.gif)
 
-### I am Full Stack software engineer/developer
+### I am Full Stack software developer
 Hi, I'm [Nicholas Emmanuel](https://NickEmma.me/), a full stack web developer and a software developer.
 
 I'm a student of Microverse, i am also an React enthusiast and i love how collaboration and knowledge sharing happened through pair programming and learning new skills. HAPPY CODING 
