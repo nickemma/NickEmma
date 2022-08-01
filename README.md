@@ -29,5 +29,3 @@ I'm a student of Microverse, i am also an React enthusiast and i love how collab
 <a href="https://github.com/NickEmma/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=NickEmma&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="NickEmma's github stats" /></a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NickEmma&layout=compact&theme=buefy&hide_border=true" /></a>|
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=NickEmma) 
-
-[![GitHub Game of Life](https://github4life.herokuapp.com/NickEmma.gif?z=6)](https://github4life.herokuapp.com/NickEmma)
