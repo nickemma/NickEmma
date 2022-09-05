@@ -37,4 +37,4 @@ I'm a student of Microverse, i am also an React enthusiast and i love how collab
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=NickEmma) 
 
-https://github-profile-trophy.vercel.app/?username=NickEmma&margin-w=15
+https://github-profile-trophy.vercel.app/?username=nickemma&margin-w=15
