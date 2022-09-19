@@ -32,8 +32,7 @@ I'm a student of Microverse, i am also an React enthusiast and i love how collab
 
 ### This week I spent my time on  <img src="https://media.giphy.com/media/SvQzkTQb3ZwKcj1QTO/giphy.gif" width="40">
 
-[![Nicholas](https://github-readme-stats.vercel.app/api/wakatime?username=NickEmma&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Nicholas](https://github-readme-stats.vercel.app/api/wakatime?username=TechieEmma&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
@@ -48,4 +47,3 @@ I'm a student of Microverse, i am also an React enthusiast and i love how collab
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊 </em>
 
 ---
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=NickEmma)](https://github.com/anuraghazra/github-readme-stats)
