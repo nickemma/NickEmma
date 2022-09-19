@@ -41,7 +41,6 @@ I'm a student of Microverse, i am also an React enthusiast and i love how collab
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Techie Emma's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=NickEmma&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
-
 ---
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊 </em>
