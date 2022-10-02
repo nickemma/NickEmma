@@ -3,9 +3,15 @@
 
 <h1 align="center">Hi 👋, I'm Nicholas Emmanuel</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=30&color=7AF79A&lines=NicKEmma+here...;I'm+a+full+stack+developer;I'm+available+for+hire;)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/46050946/154709509-cecdbcc3-20ed-4037-9046-99f7a05d5dbb.gif" />
+</p>
 
-![line](./img/line.gif)
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20Software%20developer%20;1+%2B%20years%20of%20working%20experience;Being%20passionate%20and%20creative;Available%20for%20Hire;&center=true&width=380&height=45">
+  </a>
+</p>
 
 ### I am Full Stack software developer
 Hi, I'm [Nicholas Emmanuel](https://NickEmma.me/), a full stack web developer and a software developer.
