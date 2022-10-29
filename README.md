@@ -31,11 +31,8 @@ I'm a student of Microverse, i am also an React enthusiast and i love how collab
  
 | Statistics |   Languages |
 | ---------- | ----------- |
- | <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=NickEmma&show_icons=true&theme=radical" alt="Techie Emma" width="500" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NickEmma&show_icons=true&theme=radical&layout=compact" alt="Techie Emma" width="410"/>|
+ | <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=NickEmma&show_icons=true&theme=radical" alt="Techie Emma" width="500" /> |   <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NickEmma&layout=compact&langs_count=8&theme=algolia" alt="Techie Emma" width="500"/>|
 </p><br>
-
-  <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NickEmma&layout=compact&langs_count=8&theme=algolia" alt="Techie Emma" width="410"/>
-
 ---
 
 ### This week I spent my time on  <img src="https://media.giphy.com/media/SvQzkTQb3ZwKcj1QTO/giphy.gif" width="40">
