@@ -9,15 +9,13 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20Software%20developer%20;2%2B%20years%20of%20working%20experience;Being%20passionate%20and%20creative;Available%20for%20Hire;&center=true&width=380&height=45">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20Software%20developer%20;1+%2B%20years%20of%20working%20experience;Being%20passionate%20and%20creative;Available%20for%20Hire;&center=true&width=380&height=45">
   </a>
 </p>
 
-### I am Full Stack software developer
-Hi, I'm [Nicholas Emmanuel](https://NickEmma.me/), a full stack web developer and a software developer.
+### Hi, I'm Nicholas Emmanuel, a Full-stack software developer.
 
-I'm a student of Microverse, i am also an React enthusiast and i love how collaboration and knowledge sharing happened through pair programming and learning new skills. HAPPY CODING 
-
+I am a motivated self-taught Full-stack software developer and a chess enthusiast. I am also an open-source enthusiast. I learned a lot from the open-source community, and I love how collaboration and knowledge sharing happened through open-source.
 
 <p align="left"> <img src="https://github.com/nickemma/nickemma/blob/main/google.gif" alt="nickemma" /> </p>
 
@@ -39,13 +37,6 @@ I'm a student of Microverse, i am also an React enthusiast and i love how collab
 ### This week I spent my time on  <img src="https://media.giphy.com/media/SvQzkTQb3ZwKcj1QTO/giphy.gif" width="40">
 
 [![Nicholas](https://github-readme-stats.vercel.app/api/wakatime?username=TechieEmma&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-### Github activity 🚀
-
-<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Techie Emma's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=NickEmma&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 ---
 
