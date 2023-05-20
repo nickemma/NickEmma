@@ -9,11 +9,11 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=A%20Software%20Engineer%20;2%20years%20of%20working%20experience;Being%20passionate%20and%20creative;Available%20for%20Hire;&center=true&width=380&height=45">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=A%20Software%20Developer%20;2%20years%20of%20working%20experience;Being%20passionate%20and%20creative;Available%20for%20Hire;&center=true&width=380&height=45">
   </a>
 </p>
 
-### Hi, I'm Nicholas Emmanuel, a Full-stack software Engineer.
+### Hi, I'm Nicholas Emmanuel, a Full-stack software Developer.
 
 I am a motivated self-taught Full-stack software developer and a chess enthusiast. I am also an open-source enthusiast. I learned a lot from the open-source community, and I love how collaboration and knowledge sharing happened through open-source.
 
