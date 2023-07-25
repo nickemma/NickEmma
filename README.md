@@ -1,21 +1,35 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 ![Profile views](https://gpvc.arturio.dev/NickEmma) 
 
-<h1 align="center">Hi 👋, I'm Nicholas Emmanuel</h1>
+<h1 align="center">Hi there!<img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px">I'm Nicholas Emmanuel</h1>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/46050946/154709509-cecdbcc3-20ed-4037-9046-99f7a05d5dbb.gif" />
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
 </p>
+<hr>
+
+![line](./img/line.gif)
+
+## I'm a Developer, Mentor and Tech enthusiast
+
+- 🌱 I’m currently learning Python for ML
+- 👯 I’m looking to collaborate with other software developers
+- 🥅 2023 Goals: Contributing to Open Source Projects & Improving Soft Skills & Mentoring or Teaching Others
+- ⚡ Fun fact: I love playing Football, Singing and Musical-Instruments
+
+![line](./img/line.gif)
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=A%20Software%20Developer%20;2+%20years%20of%20working%20experience;Being%20passionate%20and%20creative;Available%20for%20Hire;&center=true&width=380&height=45">
-  </a>
-</p>
-
-### Hi, I'm Nicholas Emmanuel, a Full-stack Developer & Software Engineer
-
-I am a motivated self-taught Full-stack software developer and a chess enthusiast. I am also an open-source enthusiast. I learned a lot from the open-source community, and I love how collaboration and knowledge sharing happened through open-source.
+  <em>
+   Well, This is ME, Nicholas Emmanuel Chimaobi, 
+    <b>Full-Stack Dev. & Software Engineer</b> and a <b>Competitive Programming Enthusiast</b>&nbsp;,<br>always <b>
+fascinated</b>
+    about new challenges to 
+    <b>grow </b> and 
+    <b>excel</b>&nbsp
+  </em> 
+  <br>
+</p> 
 
 <p align="left"> <img src="https://github.com/nickemma/nickemma/blob/main/google.gif" alt="nickemma" /> </p>
 
