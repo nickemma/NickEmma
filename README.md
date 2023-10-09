@@ -1,6 +1,10 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-<h1 align="center">Hi there!<img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px">I'm Nicholas Emmanuel</h1>
+<h1 align="center">Hi, <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px"> I'm Nicholas Emmanuel</h1>
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Open-Source+Enthusiast;Learning+In+Public;Empowering+Others;Nice+To+Meet+You+...&center=true"></a>
+</p>
 
 <p align="center">
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
@@ -9,11 +13,12 @@
 
 ![line](./img/line.gif)
 
-## I'm a Developer, Mentor and Tech enthusiast
+## I'm a Developer, Mentor, and Tech enthusiast 🚀
 
-- 🌱 I’m currently learning Python for ML
+- 🎓 I’m an Open-Source enthusiast & a Freshman pursuing my Bachelor's in Computer Science & Cyber Security. </br>
 - 👯 I’m looking to collaborate with other software developers
 - 🥅 2023 Goals: Contributing to Open Source Projects & Improving Soft Skills & Mentoring or Teaching Others
+- 🌱 Learning Python, Java, DevOps, AWS, Azure</br>
 - ⚡ Fun fact: I love playing Football, Singing and Musical-Instruments
 
 ![line](./img/line.gif)
