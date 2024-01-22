@@ -18,9 +18,9 @@
 ## I'm a Developer, Mentor, and Tech enthusiast 🚀
 
 - 🎓 I’m an Open-Source enthusiast and freshman pursuing my Bachelor's degree in Computer Science & AI/ML. </br>
-- 👯 I’m looking to collaborate with other software developers/engineers.
-- 🥅 2023 Goals: Contributing to Open Source Projects & Improving Soft Skills & Mentoring or Teaching Others
-- 🌱 Learning Python, Java, DevOps, AWS, C#, Flutter</br>
+- 👯 I’m looking to collaborate with other software developers/engineers and cyber security engineers.
+- 🥅 2024 Goals: Contributing to Open Source Projects & Improving Soft Skills & Mentoring or Teaching Others
+- 🌱 Learning Python, Ethical hacking, Kali Linus </br>
 - ⚡ Fun fact: I love playing Football, Singing and Musical-Instruments
 
 ![line](./img/line.gif)
