@@ -1,5 +1,3 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
-
 <h1 align="center">Hi, <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px"> I'm Nicholas Emmanuel</h1>
 
 <p align="center">
@@ -11,24 +9,19 @@
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
 <img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="20%" style="display:inline;">
 </p>
-<hr>
 
-![line](./img/line.gif)
-
-## I'm a Developer, Mentor, and Tech enthusiast 🚀
-
-- 🎓 I’m an Open-Source enthusiast and pursuing a Bachelor's degree in Computer Science. </br>
-- 👯 I’m looking to collaborate with other software developers/engineers and cyber security engineers.
-- 🥅 2024 Goals: Contributing to Open Source Projects & Improving Soft Skills & Mentoring or Teaching Others
-- 🌱 Learning Python, Ethical hacking, CyberSecurity</br>
-- ⚡ Fun fact: I love playing Football, Singing and Musical-Instruments
-
-![line](./img/line.gif)
+<div align="center">
+  <h2>
+    <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif?cid=790b7611dhvp8dydhh4r22mjr73owy4d5zzlo7s5zyk60w8s&ep=v1_stickers_search&rid=giphy.gif&ct=s" alt="--" height="50" width="50" />
+    <br/>
+    Coding Stats
+  </h2>
+</div>
 
 <p align="center">
   <em>
-   This is me, <b> Nicholas Emmanuel Chimaobi </b>,
-    <b>A Full-Stack Dev. & Software Engineer</b>, <b>Competitive Programmer</b>, <br>always <b>
+ <b> Nicholas Emmanuel Chimaobi </b>,
+    <b>An Aspiring Software Engineer</b>, <br>always <b>
 fascinated</b>
     about
     <b>growth Mindset </b>,
