@@ -1,7 +1,7 @@
 <h1 align="center">Hi, <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px"> I'm Nicholas Emmanuel</h1>
 
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Open-Source+Enthusiast;Aspiring+Learner;Computer+Science+Undergraduate;Full+Stack+Software+Developer;Nice+To+Meet+You+All...&center=true"></a>
+    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Open-Source+Enthusiast;Aspiring+Learner;Computer+Science+Undergraduate;Software+Engineer;Nice+To+Meet+You+All...&center=true"></a>
 </p>
 
 <p align="center">
