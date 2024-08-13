@@ -1,13 +1,13 @@
-👋 Hi, I'm Nicholas Emmanuel! I’m the Co-founder at **Indextek** 🎖️ and a software engineer focused on harnessing technology to make significant impacts in the tech industry and beyond.
+👋 Hi, I'm Nicholas Emmanuel! I’m the Executive Director at **Indextek** 🎖️ and a software engineer focused on harnessing technology to make significant impacts in the tech industry and beyond.
 
 ## About Me
-With a background in programming and significant leadership in tech education, I bring a unique combination of discipline, strategic vision, and technical prowess to the programming world. My passion lies in developing software solutions that not only solve problems but also create opportunities for those transitioning into tech.
+With a strong background in programming and significant leadership in tech education, I bring a unique combination of discipline, strategic vision, and technical prowess to the programming world. My passion lies in developing software solutions that not only solve problems but also create opportunities for those transitioning into tech.
 
 ## Technical Skills 🛠️
 - **Languages:** JavaScript, Python, TypeScript, Java
 - **Frameworks & Libraries:** React, Node.js, Angular, Next.js, Spring Boot
 - **Tools & Platforms:** GitHub, Docker, Google Cloud Platform, Neon, Prisma ORM, Firebase, Vercel
-- **Machine Learning & AI:** Proficient in machine learning concepts and deep learning, applying these to optimize educational outcomes.
+- **Machine Learning & AI:** Learning and leveraging machine learning concepts and deep learning, applying these to change the world.
 
 ## Key Projects 📚
 - **[Kinox Original](https://kinoxoriginal.com):** Leading the development of a high-performance e-commerce platform for the fashion industry using AI to customize shopping experiences and handling thousands of transactions per month.
