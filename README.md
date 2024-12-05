@@ -1,4 +1,4 @@
-👋 Hi, I'm Nicholas Emmanuel, the Co-Founder & Chief Technology Officer (CTO) at **NeoCareSphere**. As a dedicated software engineer, I’m passionate about leveraging cutting-edge technology to create innovative solutions that positively impact **Tech** and **Healthcare**.
+👋 Hi, I'm Nicholas Emmanuel, the Co-Founder & Chief Technology Officer (CTO) at **Indextek**. As a dedicated software engineer, I’m passionate about leveraging cutting-edge technology to create innovative solutions that positively impact **Tech** and **Healthcare**.
 
 ## About Me
 With a strong background in programming and significant leadership in tech education, I bring a unique combination of discipline, strategic vision, and technical prowess to the programming world. My passion lies in developing software solutions that not only solve problems but also create opportunities for those transitioning into tech.
