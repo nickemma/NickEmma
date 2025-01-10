@@ -10,7 +10,7 @@ With a strong background in programming and significant leadership in tech educa
 - **Machine Learning & AI:** Learning and leveraging machine learning concepts and deep learning, applying these to change the world.
 
 ## Key Projects 📚
-- **[NeoCareSphere](https://techieemma.me):** At NeoCareSphere, we're pioneering a transformative solution aimed at Telemedicine and Mobile Phlebotomy. Our innovative platform leverages AI-driven virtual assistants to provide expectant mothers with essential health tips, reminders for prenatal visits, and nutritional guidance. By using predictive analytics, we identify high-risk pregnancies and facilitate timely interventions, empowering healthcare workers with actionable insights. Together, we're creating a comprehensive ecosystem that enhances maternal and infant well-being, ensuring every mother receives the care she deserves.
+- **[NeoCareSphere](https://techieemma.me):** At NeoCareSphere, we're transforming healthcare delivery through Telemedicine and Mobile Phlebotomy. Our innovative platform leverages AI-driven virtual assistants to provide users with personalized health insights, appointment reminders, and nutritional guidance. By integrating predictive analytics, we empower healthcare providers with actionable data, enabling timely and efficient interventions. Together, we're building a seamless healthcare ecosystem that enhances accessibility and improves outcomes for everyone.
   
 You can view these and more [here](https://techieemma.me/).
 
