@@ -4,9 +4,9 @@
 With a strong background in programming and significant leadership in tech education, I bring a unique combination of discipline, strategic vision, and technical prowess to the programming world. My passion lies in developing software solutions that not only solve problems but also create opportunities for those transitioning into tech.
 
 ## Technical Skills 🛠️
-- **Languages:** JavaScript, Python, Java
-- **Frameworks & Libraries:** React, Next.js, Spring Boot
-- **Tools & Platforms:** GitHub, Docker, Google Cloud, AWS, Vercel
+- **Languages:** JavaScript, Go, Java
+- **Frameworks & Libraries:** React, Next.js, Spring Boot, Gin, Express.js
+- **Tools & Platforms:** GitHub, Docker, Kubernetes, AWS, Google Cloud, Redis, RabbitMQ, Microservices & Serverless
 - **Machine Learning & AI:** Learning and leveraging machine learning concepts and deep learning, applying these to change the world.
 
 ## Key Projects 📚
