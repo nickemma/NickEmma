@@ -1,10 +1,11 @@
 👋 Hi, I'm Nicholas Emmanuel — **Co-Founder & CTO of [IndexTek](https://indextek.co)**, a 5.0★ Google-rated tech studio building scalable AI infrastructure and startup solutions.  
+
 🚀 **Building the future of healthcare & MLOps** | Open-source advocate | Let’s engineer impact.  
 
 ---
 
 ## **About Me**  
-As CTO of **IndexTek**, I lead teams to build AI-driven software solutions that empower startups and transform industries like healthcare. With 3+ years of experience spanning **full-stack development**, **DevOps**, and **MLOps**, I specialize in:  
+As CTO of **IndexTek**, I lead teams to build AI-driven software solutions that empower startups and transform industries like healthcare. With 4+ years of experience spanning **full-stack development**, **DevOps**, and **MLOps**, I specialize in:  
 - **Scalable AI Infrastructure**: Designing model deployment pipelines (Kubeflow, MLflow) and monitoring systems.  
 - **Startup Tech**: Architecting cloud-native platforms (AWS/GCP, Kubernetes) for rapid scaling.  
 - **Open-Source for Good**: Building tools that bridge tech and social impact.  
