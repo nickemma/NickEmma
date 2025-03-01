@@ -1,11 +1,11 @@
-👋 Hi, I'm Nicholas Emmanuel — **Co-Founder & CTO of [IndexTek](https://indextek.co)**, a 5.0★ Google-rated tech studio building scalable AI infrastructure and startup solutions.  
+👋 Hi, I'm Nicholas Emmanuel — **Software Engineer @[IndexTek](https://indextek.co)**, building scalable AI infrastructure and startup solutions.  
 
 🚀 **Building the future of healthcare & MLOps** | Open-source advocate | Let’s engineer impact.  
 
 ---
 
 ## **About Me**  
-As CTO of **IndexTek**, I lead teams to build AI-driven software solutions that empower startups and transform industries like healthcare. With 4+ years of experience spanning **full-stack development**, **DevOps**, and **MLOps**, I specialize in:  
+As a Software Engineer, I lead teams to build AI-driven software solutions that empower startups and transform industries like healthcare. With 4+ years of experience spanning **full-stack development**, **DevOps**, and **MLOps**, I specialize in:  
 - **Scalable AI Infrastructure**: Designing model deployment pipelines (Kubeflow, MLflow) and monitoring systems.  
 - **Startup Tech**: Architecting cloud-native platforms (AWS/GCP, Kubernetes) for rapid scaling.  
 - **Open-Source for Good**: Building tools that bridge tech and social impact.  
@@ -20,19 +20,19 @@ As CTO of **IndexTek**, I lead teams to build AI-driven software solutions that 
 
 ---
 
-## **🚀 IndexTek Projects**  
+## **🚀 My Projects**  
 ### **NeoCareSphere**  
 *AI-Powered Telemedicine Ecosystem*  
 - Led development of a HIPAA-compliant platform using **Next.js, Go, and Kubeflow** for real-time diagnostics.  
 - Integrated predictive analytics to reduce patient wait times by **40%** and improve care accessibility.  
-- [Explore NeoCareSphere on IndexTek](https://indextek.co/projects/neocaresphere)  
+- [Explore NeoCareSphere](https://github.com/neocaresphere)  
 
 ### **IndexLinksPro**  
 *Real Estate SaaS Platform*  
 - Architected a scalable property management solution with **AI-driven analytics**, **virtual tour integrations**, and CRM tools for real estate agencies.  
 - Reduced client onboarding time by **35%** via automated document processing (Node.js, AWS Lambda).  
 - Deployed geolocation APIs and dynamic pricing models to increase user engagement by **50%**.  
-- [Live Demo](https://indexlinkspro.com) | [Case Study](https://indextek.co/projects/indexlinkspro)  
+- [Live Demo](https://indexlinkspro.com) | [Case Study](https://github.com/nickemma/ikuku-estate)  
 
 ### **MLOps Starter Kit**  
 *Open-Source Templates for Model Deployment*  
@@ -41,13 +41,13 @@ As CTO of **IndexTek**, I lead teams to build AI-driven software solutions that 
 ---
 
 ## **🌍 Let’s Collaborate**  
-- **IndexTek’s Mission**: We partner with startups to turn MVPs into scalable, secure solutions.  
+- **My Mission**: I partner with startups to turn MVPs into scalable, secure solutions.  
 - **Open-Source**: Contribute to projects at the intersection of tech and healthcare.  
 - **Connect**:  
   📧 [nicholasemmanuel321@gmail.com](mailto:nicholasemmanuel321@gmail.com)  
   🐦 [Twitter](https://twitter.com/techieEmma)  
   🔗 [LinkedIn](https://linkedin.com/in/techieemma)  
-  🌐 [Explore Our Work](https://indextek.co)  
+  🌐 [Explore My Work](https://techieemma.me)  
 
 ---
 
