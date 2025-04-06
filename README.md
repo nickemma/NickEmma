@@ -5,7 +5,7 @@
 ---
 
 ## **About Me**  
-As a Software Engineer, I lead teams to build AI-driven software solutions that empower startups and transform industries like healthcare. With 4+ years of experience spanning **full-stack development**, **DevOps**, and **MLOps**, I specialize in:  
+As a Software Engineer, I lead teams to build AI-driven software solutions that empower startups and transform industries like healthcare. With 3+ years of experience spanning **full-stack development**, **DevOps**, and **MLOps**, I specialize in:  
 - **Scalable AI Infrastructure**: Designing model deployment pipelines (Kubeflow, MLflow) and monitoring systems.  
 - **Startup Tech**: Architecting cloud-native platforms (AWS/GCP, Kubernetes) for rapid scaling.  
 - **Open-Source for Good**: Building tools that bridge tech and social impact.  
