@@ -1,49 +1,48 @@
-👋 Hi, I'm Nicholas Emmanuel — **Software Engineer @[IndexTek](https://indextek.co)**, building scalable AI infrastructure and startup solutions.  
-
-🚀 **Building the future of healthcare & MLOps** | Open-source advocate | Let’s engineer impact.  
+👋 Hi, I'm Nicholas Emmanuel — **Software Engineer @[IndexTek](https://indextek.co)**. 
 
 ---
 
 ## **About Me**  
-As a Software Engineer, I lead teams to build AI-driven software solutions that empower startups and transform industries like healthcare. With 3+ years of experience spanning **full-stack development**, **DevOps**, and **MLOps**, I specialize in:  
-- **Scalable AI Infrastructure**: Designing model deployment pipelines (Kubeflow, MLflow) and monitoring systems.  
-- **Startup Tech**: Architecting cloud-native platforms (AWS/GCP, Kubernetes) for rapid scaling.  
-- **Open-Source for Good**: Building tools that bridge tech and social impact.  
+Seasoned Cloud and AI Infrastructure Engineer with growing expertise in MLOps — building secure, scalable solutions across private, public, multi-cloud, and hybrid cloud environments. Currently Software Engineer @IndexTek, where I architect AI infrastructure and software solutions.  
+
+---
+## **🚀 My Focus**  
+Building at the intersection of AI infrastructure, cloud engineering, and healthcare innovation. I've evolved from full-stack development to specializing in automating ML pipelines, managing infrastructure as code, and shipping AI at scale.
 
 ---
 
-## **🔧 Technical Expertise**  
+## **💡 Technical Expertise**  
 - **Languages**: Go, Python, JavaScript, Java  
-- **MLOps**: Kubeflow, MLflow, TensorFlow Serving, Model Monitoring/Drift Detection  
-- **Cloud & DevOps**: AWS/GCP, Docker/Kubernetes, GitHub Actions, Microservices  
+- **Infrastructure & Cloud**: Kubernetes orchestration, AWS, GCP, IaaC, Multi-cloud architecture  
+- **MLOps & AI**: Kubeflow, MLflow, TensorFlow Serving, Model monitoring/drift detection  
+- **DevOps**: CI/CD pipelines, GitOps, Infrastructure Security & Compliance
 - **Frameworks**: Next.js/React, Gin, Express.js, Spring Boot  
-
 ---
 
-## **🚀 My Projects**  
+## **🔧 Featured Projects**  
 ### **NeoCareSphere**  
 *AI-Powered Telemedicine Ecosystem*  
 - Led development of a HIPAA-compliant platform using **Next.js, Go, and Kubeflow** for real-time diagnostics.  
 - Integrated predictive analytics to reduce patient wait times by **40%** and improve care accessibility.  
 - [Explore NeoCareSphere](https://github.com/neocaresphere)  
 
-### **IndexLinksPro**  
-*Real Estate SaaS Platform*  
-- Architected a scalable property management solution with **AI-driven analytics**, **virtual tour integrations**, and CRM tools for real estate agencies.  
-- Reduced client onboarding time by **35%** via automated document processing (Node.js, AWS Lambda).  
-- Deployed geolocation APIs and dynamic pricing models to increase user engagement by **50%**.  
-- [Live Demo](https://indexlinkspro.com) | [Case Study](https://github.com/nickemma/ikuku-estate)  
-
 ### **MLOps Starter Kit**  
 *Open-Source Templates for Model Deployment*  
 - Simplified CI/CD pipelines for AI models using **MLflow + Kubernetes**, adopted by 500+ developers.  
-- [GitHub Repo](https://github.com/nickemma/mlops-starter)  
+- [Explore MLOps Kit](https://github.com/nickemma/mlops-starter)  
 ---
 
-## **🌍 Let’s Collaborate**  
-- **My Mission**: I partner with startups to turn MVPs into scalable, secure solutions.  
-- **Open-Source**: Contribute to projects at the intersection of tech and healthcare.  
-- **Connect**:  
+## **🌱 Current Learning Focus**  
+- Infrastructure AI, Design & Automation
+- Gen AI Infrastructure optimization  
+- CNCF tooling ecosystem expansion 
+- Advanced model monitoring techniques
+ 
+---
+
+## **🌍 Let's Connect & Collaborate**  
+I'm passionate about blending software craftsmanship with modern DevOps and machine learning practices, particularly in healthcare where tech can make the most impact. Open to collaborating on projects at the intersection of AI, cloud infrastructure, and social impact. 
+
   📧 [nicholasemmanuel321@gmail.com](mailto:nicholasemmanuel321@gmail.com)  
   🐦 [Twitter](https://twitter.com/techieEmma)  
   🔗 [LinkedIn](https://linkedin.com/in/techieemma)  
@@ -52,4 +51,4 @@ As a Software Engineer, I lead teams to build AI-driven software solutions that 
 ---
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">  
-*Building tools for startups and healthcare? Let’s engineer impact together. 🌍*  
+*Building scalable AI infrastructure for healthcare? Let's engineer impact together. 🚀*  
