@@ -1,22 +1,22 @@
-👋 Hi, I'm Nicholas Emmanuel — **Software Engineer @[IndexTek](https://indextek.co)**. 
+👋 Hi, I'm Nicholas Emmanuel — **MLOps Infrastructure Engineer**. 
 
 ---
 
 ## **About Me**  
-Seasoned Cloud and AI Infrastructure Engineer with growing expertise in MLOps — building secure, scalable solutions across private, public, multi-cloud, and hybrid cloud environments. Currently Software Engineer @IndexTek, where I architect AI infrastructure and software solutions.  
+Curious mind turned Seasoned Cloud & MLOps Infrastructure Engineer, I specialize in building the backbone that healthcare companies need to deploy AI/ML models safely in production, from predictive diagnostics to AI-powered telemedicine platforms.
 
 ---
-## **🚀 My Focus**  
-Building at the intersection of AI infrastructure, cloud engineering, and healthcare innovation. I've evolved from full-stack development to specializing in automating ML pipelines, managing infrastructure as code, and shipping AI at scale.
+## **🚀 My Journey: From Full-Stack To MLOps**  
+My path started in the UI layer and led me down the stack—toward understanding the application layer AI lifecycle, automating ML pipelines, and managing infrastructure that keeps healthcare AI running 24/7.
 
 ---
 
 ## **💡 Technical Expertise**  
-- **Languages**: Go, Python, JavaScript, Java  
+- **Languages**: Python, Go, Java, Typescript 
 - **Infrastructure & Cloud**: Kubernetes orchestration, AWS, GCP, IaaC, Multi-cloud architecture  
 - **MLOps & AI**: Kubeflow, MLflow, TensorFlow Serving, Model monitoring/drift detection  
 - **DevOps**: CI/CD pipelines, GitOps, Infrastructure Security & Compliance
-- **Frameworks**: Next.js/React, Gin, Express.js, Spring Boot  
+  
 ---
 
 ## **🔧 Featured Projects**  
