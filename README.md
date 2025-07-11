@@ -1,54 +1,68 @@
-👋 Hi, I'm Nicholas Emmanuel — **MLOps Infrastructure Engineer**. 
+## 👋 Hi, I'm Nicholas Emmanuel — **MLOps Infrastructure Engineer**. 
 
----
-
-## **About Me**  
-Curious mind turned Seasoned Cloud & MLOps Infrastructure Engineer, I specialize in building the backbone that healthcare companies need to deploy AI/ML models safely in production, from predictive diagnostics to AI-powered telemedicine platforms.
+## 🏥**About Me**  
+MLOps Infrastructure Engineer specializing in healthcare AI deployment. I solve the critical question: "How do we safely deploy AI in healthcare?" by building HIPAA-compliant MLOps pipelines, secure cloud infrastructure, and production-ready AI systems that get healthcare organizations from prototype to patient impact.
 
 ---
 ## **🚀 My Journey: From Full-Stack To MLOps**  
-My path started in the UI layer and led me down the stack—toward understanding the application layer AI lifecycle, automating ML pipelines, and managing infrastructure that keeps healthcare AI running 24/7.
+Started in the UI layer, followed curiosity down the stack—through backend systems, cloud infrastructure, and into the AI lifecycle. Now I architect the infrastructure that keeps healthcare AI running 24/7 in production environments.
 
 ---
 
 ## **💡 Technical Expertise**  
 - **Languages**: Python, Go, Java, Typescript 
-- **Infrastructure & Cloud**: Kubernetes orchestration, AWS, GCP, IaaC, Multi-cloud architecture  
-- **MLOps & AI**: Kubeflow, MLflow, TensorFlow Serving, Model monitoring/drift detection  
-- **DevOps**: CI/CD pipelines, GitOps, Infrastructure Security & Compliance
+- **Infrastructure & Cloud**: AWS, GCP, Kubernetes, Docker, Terraform, Infrastructure-as-Code 
+- **MLOps & AI**: Kubeflow, MLflow, TensorFlow Serving, PyTorch, Apache Airflow  
+- **Healthcare Compliance**: HIPAA, SOC 2, FDA guidelines, audit trails, encryption
+- **DevOps**: CI/CD for ML models, GitOps, monitoring, drift detection
   
 ---
 
 ## **🔧 Featured Projects**  
-### **NeoCareSphere**  
-*AI-Powered Telemedicine Ecosystem*  
-- Led development of a HIPAA-compliant platform using **Next.js, Go, and Kubeflow** for real-time diagnostics.  
-- Integrated predictive analytics to reduce patient wait times by **40%** and improve care accessibility.  
-- [Explore NeoCareSphere](https://github.com/neocaresphere)  
+### **🩺 MedFlow Pipeline**  
+*HIPAA-Compliant MLOps Pipeline for Medical Diagnostics*  
+- Automated ML pipeline for cardiac risk prediction with 99.7% uptime 
+- HIPAA-compliant data processing, model versioning, and audit trails
+- Stack: Python, Kubeflow, AWS, TensorFlow, Kubernetes
+- [Explore MedFlow Pipeline](https://github.com/MedFlow-Pipeline)
 
-### **MLOps Starter Kit**  
-*Open-Source Templates for Model Deployment*  
-- Simplified CI/CD pipelines for AI models using **MLflow + Kubernetes**, adopted by 500+ developers.  
+### **📊 AI Model Monitor**  
+*Real-time ML Model Drift Detection System*  
+- Automated monitoring system preventing model degradation in clinical settings 
+- Reduces false positives by 60% through advanced drift detection
+- Stack: Python, Prometheus, Grafana, MLflow
+- [Explore AI Model Monitor](https://github.com/AI-Model-Monitor)  
+
+### **🔧 MLOps Starter Kit**  
+*Open-Source Healthcare MLOps Templates*  
+- Production-ready CI/CD pipelines for healthcare AI models
+- Adopted by 500+ developers building medical AI systems
+- Stack: MLflow, Kubernetes, Docker, GitHub Actions  
 - [Explore MLOps Kit](https://github.com/nickemma/mlops-starter)  
 ---
 
 ## **🌱 Current Learning Focus**  
-- Infrastructure AI, Design & Automation
-- Gen AI Infrastructure optimization  
-- CNCF tooling ecosystem expansion 
-- Advanced model monitoring techniques
+- Edge AI for Medical Devices
+- AI Safety & Explainability  
+- Advanced Monitoring 
+- End To End MLOps
  
 ---
 
-## **🌍 Let's Connect & Collaborate**  
-I'm passionate about blending software craftsmanship with modern DevOps and machine learning practices, particularly in healthcare where tech can make the most impact. Open to collaborating on projects at the intersection of AI, cloud infrastructure, and social impact. 
+## **🌍 Let's Build Healthcare AI Together**  
+I'm passionate about the intersection of AI, cloud infrastructure, and healthcare innovation. Always excited to collaborate on projects that can make a real difference in patient care and medical outcomes.
 
   📧 [nicholasemmanuel321@gmail.com](mailto:nicholasemmanuel321@gmail.com)  
   🐦 [Twitter](https://twitter.com/techieEmma)  
   🔗 [LinkedIn](https://linkedin.com/in/techieemma)  
-  🌐 [Explore My Work](https://techieemma.me)  
+  🌐 [Portfolio]([https://techieemma.me](https://portfolio-v2-azure-nu.vercel.app/))  
+  📝 [Technical Blog]([https://techieemma.me](https://techieemma.medium.com/)) 
 
 ---
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">  
-*Building scalable AI infrastructure for healthcare? Let's engineer impact together. 🚀*  
+*Building secure, scalable AI infrastructure for healthcare innovation. Let's engineer impact together! 🚀*  
+
+---
+
+🏆 "For I know the plans I have for you," declares the Lord, "plans to prosper you and not to harm you, to give you hope and a future." - Jeremiah 29:11
