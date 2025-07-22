@@ -55,8 +55,8 @@ I'm passionate about the intersection of AI, cloud infrastructure, and healthcar
   📧 [nicholasemmanuel321@gmail.com](mailto:nicholasemmanuel321@gmail.com)  
   🐦 [Twitter](https://twitter.com/techieEmma)  
   🔗 [LinkedIn](https://linkedin.com/in/techieemma)  
-  🌐 [Portfolio]([https://techieemma.me](https://portfolio-v2-azure-nu.vercel.app/))  
-  📝 [Technical Blog]([https://techieemma.me](https://techieemma.medium.com/)) 
+  🌐 [Portfolio](https://portfolio-v2-azure-nu.vercel.app/)  
+  📝 [Technical Blog](https://techieemma.medium.com/) 
 
 ---
 
