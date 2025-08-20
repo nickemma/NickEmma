@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Nicholas Emmanuel — **MLOps Infrastructure Engineer**. 
 
 ## 🏥**About Me**  
-MLOps Infrastructure Engineer specializing in healthcare AI deployment. I solve the critical question: "How do we safely deploy AI in healthcare?" by building HIPAA-compliant MLOps pipelines, secure cloud infrastructure, and production-ready AI systems that get healthcare organizations from prototype to patient impact.
+Software & MLOps Infrastructure Engineer specializing in healthcare AI deployment. I address the critical question: "How do we safely deploy AI in healthcare?" by building HIPAA-compliant MLOps pipelines, secure cloud infrastructure, and production-ready AI systems that enable healthcare organizations to transition from prototype to patient impact.
 
 ---
 ## **🚀 My Journey: From Full-Stack To MLOps**  
@@ -24,14 +24,14 @@ Started in the UI layer, followed curiosity down the stack—through backend sys
 - Automated ML pipeline for cardiac risk prediction with 99.7% uptime 
 - HIPAA-compliant data processing, model versioning, and audit trails
 - Stack: Python, Kubeflow, AWS, TensorFlow, Kubernetes
-- [Explore MedFlow Pipeline](https://github.com/MedFlow-Pipeline)
+- [Explore MedFlow Pipeline](https://github.com/nickemma/MedFlow-Pipeline)
 
-### **📊 AI Model Monitor**  
-*Real-time ML Model Drift Detection System*  
-- Automated monitoring system preventing model degradation in clinical settings 
-- Reduces false positives by 60% through advanced drift detection
-- Stack: Python, Prometheus, Grafana, MLflow
-- [Explore AI Model Monitor](https://github.com/AI-Model-Monitor)  
+### **📊 CodeSync-AI**  
+*Next-Generation Distributed Code Review Platform Powered By AI*  
+- Automated monitoring system and AI-Powered Analysis 
+- Real-Time Collaboration
+- Enterprise Security and Advanced Analytics
+- [Explore CodeSync-AI](https://github.com/nickemma/CodeSync-AI)  
 
 ### **🔧 MLOps Starter Kit**  
 *Open-Source Healthcare MLOps Templates*  
