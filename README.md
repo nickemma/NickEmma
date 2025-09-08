@@ -41,13 +41,7 @@ Started crafting user experiences, followed curiosity down the stack, through ba
 - Adopted by 500+ developers building medical AI systems
 - Stack: MLflow, Kubernetes, Docker, GitHub Actions  
 - [Explore MLOps Kit](https://github.com/nickemma/mlops-starter)
-
-### **🔧 DevX Toolkit**  
-*Internal Developer Platform for ML Teams*  
-- One-command deployment for ML models to production
-- Automated testing, monitoring, and rollback capabilities
-- Stack: Go, Kubernetes Operators, Grafana, Prometheus
-- [Explore DevXToolkit](https://github.com/nickemma/devx-toolkit)  
+  
 ---
 
 ## **🌱 Current Innovation Focus**  
