@@ -10,7 +10,7 @@ Started crafting user experiences, followed curiosity down the stack, through ba
 ---
 
 ## **💡 Technical Arsenal**  
-- **Languages**: Python, Go, Typescript — Building systems that scale
+- **Languages**: Python, Go, Java, Typescript — Building systems that scale
 - **Infrastructure & Cloud**: AWS, GCP, Kubernetes, Docker, Terraform, Multi-cloud expertise
 - **MLOps & AI Platform**: Kubeflow, MLflow, TensorFlow Serving, PyTorch, Apache Airflow — End-to-end ML lifecycle 
 - **Data & Streaming**: Kafka, Redis, PostgreSQL, Apache Flink — Real-time data processing at scale
@@ -24,8 +24,6 @@ Started crafting user experiences, followed curiosity down the stack, through ba
 - Event-driven architecture for streaming ML predictions
 - Feature store with microsecond lookup times
 - Built-in drift detection and automated model retraining
-- Impact: Reduced prediction latency by 80%, improved accuracy by 15%
-- Stack: Apache Flink, Redis, MLflow, Kubernetes
 - [Explore StreamML Engine](https://github.com/nickemma/streamMl-engine)
 
 ### **📊 CodeSync-AI**  
@@ -35,8 +33,8 @@ Started crafting user experiences, followed curiosity down the stack, through ba
 - Enterprise Security and Advanced Analytics
 - [Explore CodeSync-AI](https://github.com/nickemma/CodeSync-AI)  
 
-### **🔧 MLOps Starter Kit**  
-*Open-Source Healthcare MLOps Templates*  
+### **🔧 GeoStream**  
+*Geo-Distributed ML Model Serving with Intelligent Routing*  
 - Production-ready CI/CD pipelines for healthcare AI models
 - Adopted by 500+ developers building medical AI systems
 - Stack: MLflow, Kubernetes, Docker, GitHub Actions  
