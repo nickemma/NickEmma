@@ -1,31 +1,25 @@
-## 👋 Hi, I'm Nicholas Emmanuel — **MLOps Infrastructure Engineer**. 
+## 👋 Hi, I'm Nicholas Emmanuel — **Software & Infrastructure Engineer**. 
 
 ## 🏥**About Me**  
-I build the backbone that powers AI at scale — from real-time systems processing millions of predictions to production ML platforms serving critical applications. My work sits at the intersection of software engineering, cloud infrastructure, and AI deployment, creating systems where data scientists focus on innovation while infrastructure handles everything else.
+I'm a software engineer who architects the backbone powering AI systems—from real-time fraud detection to healthcare to autonomous systems. My work is grounded in the belief that technology should serve humanity and that engineering excellence is an expression of purpose.
 
 ---
-## **🚀 My Journey: Full-Stack → Infrastructure → AI Systems**  
-Started crafting user experiences, followed curiosity down the stack, through backend systems, cloud automation, and into architecting complete MLOps ecosystems. Now I design infrastructure that scales AI from prototype to production across any industry.
+## **🚀 MY EVOLUTION**  
+Full-Stack Development → Backend Systems → DevOps/Infrastructure → MLOps Engineering → Distributed Systems Research (next: MS in Distributed Systems)
+
+Each step taught me a different layer. Now I see the full picture: from user interaction → backend logic → infrastructure → distributed coordination. My strength is architecting systems that work end-to-end.
 
 ---
 
 ## **💡 Technical Arsenal**  
-- **Languages**: Python, Go, Java, Typescript — Building systems that scale
+- **Languages**: Python, Go, Typescript — Building systems that scale
 - **Infrastructure & Cloud**: AWS, GCP, Kubernetes, Docker, Terraform, Multi-cloud expertise
-- **MLOps & AI Platform**: Kubeflow, MLflow, TensorFlow Serving, PyTorch, Apache Airflow — End-to-end ML lifecycle 
 - **Data & Streaming**: Kafka, Redis, PostgreSQL, Apache Flink — Real-time data processing at scale
 - **DevOps Excellence**: GitOps, CI/CD for ML, Monitoring, Observability, Security-first design
   
 ---
 
 ## **🛠️ Featured Engineering Projects**  
-### **⚡ StreamML Engine**  
-*Real-time Feature Engineering and Model Serving*  
-- Event-driven architecture for streaming ML predictions
-- Feature store with microsecond lookup times
-- Built-in drift detection and automated model retraining
-- [Explore StreamML Engine](https://github.com/nickemma/streamMl-engine)
-
 ### **📊 CodeSync-AI**  
 *Next-Generation Distributed Code Review Platform Powered By AI*  
 - Automated monitoring system and AI-Powered Analysis 
@@ -42,9 +36,9 @@ Started crafting user experiences, followed curiosity down the stack, through ba
 
 ---
 ## 🎯 Engineering Philosophy
-*"Build systems that scale from 1 to 1 billion predictions. Design for failure, optimize for performance, secure by default."*
+*"I believe good engineering is an act of service. Build things that work, scale responsibly, and solve real problems. Design for failure, optimize for performance, secure by default."*
 
-I believe the future belongs to engineers who can bridge the gap between ML innovation and production reality — creating infrastructure that doesn't just run AI, but runs it reliably, securely, and at massive scale.
+The future belongs to engineers who can bridge the gap between ML innovation and production reality — creating infrastructure that doesn't just run AI but runs it reliably, securely, and at massive scale.
 
 ## **🌍 Let's Build the Future of AI Infrastructure**  
 Passionate about solving the hardest problems in ML infrastructure. Always excited to collaborate on systems that push the boundaries of what's possible with AI at scale..
@@ -59,6 +53,7 @@ Passionate about solving the hardest problems in ML infrastructure. Always excit
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">  
 Architecting AI infrastructure that scales to the future. Let's engineer impact together! 🚀 
+"Whatever you do, work at it with all your heart, as working for the Lord." - Colossians 3:23
 
 ---
 
