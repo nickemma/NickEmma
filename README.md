@@ -1,60 +1,74 @@
-## 👋 Hi, I'm Nicholas Emmanuel — **Software & Infrastructure Engineer**. 
+## 👋 Hi, I'm Nicholas Emmanuel — **Distributed Systems Engineer**. 
 
 ## 🏥**About Me**  
-I'm a software engineer who architects the backbone powering AI systems—from real-time fraud detection to healthcare to autonomous systems. My work is grounded in the belief that technology should serve humanity and that engineering excellence is an expression of purpose.
+I architect fault-tolerant systems that scale across regions—from consensus protocols to geo-distributed platforms to real-time event streaming. My work is grounded in the belief that technology should serve humanity, and that engineering excellence is an expression of purpose.
 
 ---
 ## **🚀 MY EVOLUTION**  
-Full-Stack Development → Backend Systems → DevOps/Infrastructure → MLOps Engineering → Distributed Systems Research (next: MS in Distributed Systems)
+Full-Stack Development → Backend Systems → DevOps/Infrastructure → Distributed Systems Engineering (next: MS in Distributed Systems)
 
-Each step taught me a different layer. Now I see the full picture: from user interaction → backend logic → infrastructure → distributed coordination. My strength is architecting systems that work end-to-end.
+Each step taught me a different layer. Now I see the full picture: from user interaction → backend logic → infrastructure → distributed coordination → consensus. My strength lies in architecting systems that handle failures gracefully and work seamlessly across continents.
 
 ---
 
 ## **💡 Technical Arsenal**  
-- **Languages**: Python, Go, Typescript — Building systems that scale
-- **Infrastructure & Cloud**: AWS, GCP, Kubernetes, Docker, Terraform, Multi-cloud expertise
-- **Data & Streaming**: Kafka, Redis, PostgreSQL, Apache Flink — Real-time data processing at scale
-- **DevOps Excellence**: GitOps, CI/CD for ML, Monitoring, Observability, Security-first design
+- **Core Languages**: Go, Rust, Python — Building systems that scale and never stop
+- **Distributed Systems**: Raft consensus, leader election, replication, partitioning, CAP theorem
+- **Infrastructure & Cloud**: Kubernetes, Docker, Terraform, AWS, GCP — Multi-region orchestration
+- **Data & Messaging**:Kafka, RabbitMQ, Redis Cluster, PostgreSQL — Event-driven architectures
+- **DevOps Excellence**: Prometheus, Grafana, OpenTelemetry, distributed tracing, Observability, Security-first design
   
 ---
 
-## **🛠️ Featured Engineering Projects**  
-### **📊 CodeSync-AI**  
-*Next-Generation Distributed Code Review Platform Powered By AI*  
-- Automated monitoring system and AI-Powered Analysis 
-- Real-Time Collaboration
-- Enterprise Security and Advanced Analytics
-- [Explore CodeSync-AI](https://github.com/nickemma/CodeSync-AI)  
+## **🛠️ Featured Engineering Projects** 
+### **🌍 GeoStream**  
+*Geo-Distributed Platform with Intelligent Routing & Consensus*  
+- Multi-region architecture with <100ms P99 latency across 5+ AWS/GCP regions
+- Raft consensus implementation for leader election and state synchronization
+- Intelligent routing algorithm balancing latency, cost, and availability
+- Automatic failover with <3s recovery time
+- Stack: Go, Rust, Kubernetes, gRPC, Raft, Terraform
+- [Explore GeoStream →](https://github.com/nickemma/geostream)
 
-### **🔧 GeoStream**  
-*Geo-Distributed ML Model Serving with Intelligent Routing*  
-- Production-ready CI/CD pipelines for healthcare AI models
-- Adopted by 500+ developers building medical AI systems
-- Stack: MLflow, Kubernetes, Docker, GitHub Actions  
-- [Explore MLOps Kit](https://github.com/nickemma/mlops-starter)
+### **📊 CodeSync-AI**  
+*Distributed Code Review Platform with Real-Time Collaboration*  
+- CRDT-based collaborative editing for conflict-free concurrent reviews
+- Async message processing with RabbitMQ (exactly-once semantics)
+- Distributed caching with Redis Cluster (80% latency reduction)
+- Event sourcing for audit trails and time-travel debugging
+- Processing 1K+ reviews/day with high availability
+- Stack: Python, Go, TypeScript, React, PostgreSQL, Redis, RabbitMQ
+- [Explore CodeSync-AI →](https://github.com/nickemma/CodeSync-AI)  
 
 ---
-## 🎯 Engineering Philosophy
-*"I believe good engineering is an act of service. Build things that work, scale responsibly, and solve real problems. Design for failure, optimize for performance, secure by default."*
+## 🎯 ENGINEERING PHILOSOPHY
+*"I believe good engineering is an act of service. Build systems that handle failures gracefully, scale responsibly, maintain consistency across regions, and solve real problems."*
 
-The future belongs to engineers who can bridge the gap between ML innovation and production reality — creating infrastructure that doesn't just run AI but runs it reliably, securely, and at massive scale.
+The future belongs to engineers who understand distributed systems — creating infrastructure that not only runs at scale but also runs reliably, consistently, and with strong guarantees even when things fail.
 
-## **🌍 Let's Build the Future of AI Infrastructure**  
-Passionate about solving the hardest problems in ML infrastructure. Always excited to collaborate on systems that push the boundaries of what's possible with AI at scale..
+## 📚 CURRENT RESEARCH
+- MIT 6.824 Distributed Systems course (implementing Raft, distributed KV stores)
+- Reading foundational papers: Raft, Paxos, Spanner, Dynamo, Bigtable
+- Systems programming with Rust for performance-critical distributed systems
+- Implementing consensus protocols from scratch
+- Exploring CAP theorem implications and consistency trade-offs
+  
+## **🌍 LET'S BUILD FAULT-TOLERANT SYSTEMS**  
+Passionate about solving the hardest problems in distributed systems. Always excited to collaborate on systems that push the boundaries of reliability, consistency, and global scale.
 
   📧 [nicholasemmanuel321@gmail.com](mailto:nicholasemmanuel321@gmail.com)  
-  🐦 [Twitter](https://twitter.com/techieEmma)  
-  🔗 [LinkedIn](https://linkedin.com/in/techieemma)  
-  🌐 [Portfolio](https://portfolio-v2-azure-nu.vercel.app/)  
-  📝 [Technical Blog - Sharing insights on ML infrastructure at scale](https://techieemma.medium.com/) 
+  🐦 [Twitter:](https://twitter.com/techieemma)  
+  🔗 [LinkedIn:](https://linkedin.com/in/techieemma)  
+  🌐 [Portfolio:](https://portfolio-v2-azure-nu.vercel.app/)  
+  📝 [Technical Blog: - Sharing insights on distributed systems, consensus protocols, and lessons from production](https://techieemma.medium.com/) 
 
 ---
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">  
-Architecting AI infrastructure that scales to the future. Let's engineer impact together! 🚀 
-"Whatever you do, work at it with all your heart, as working for the Lord." - Colossians 3:23
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> "Whatever you do, work at it with all your heart, as working for the Lord." - Colossians 3:23
+
+
+Architecting distributed systems that scale globally and fail gracefully. Let's engineer reliable infrastructure together! 🚀
 
 ---
 
-🏆 *"For I know the plans I have for you," declares the Lord, "plans to prosper you and not to harm you, to give you hope and a future."* - Jeremiah 29:11
+🏆 *"For I know the plans I have for you," declares the Lord, "plans to prosper you and not to harm you, to give you hope and a future." - Jeremiah 29:11*
