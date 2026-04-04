@@ -1,74 +1,90 @@
-## 👋 Hi, I'm Nicholas Emmanuel — **Distributed Systems Engineer**. 
+## Hi, I'm Nicholas Emmanuel 👋
 
-## 🏥**About Me**  
-I architect fault-tolerant systems that scale across regions—from consensus protocols to geo-distributed platforms to real-time event streaming. My work is grounded in the belief that technology should serve humanity, and that engineering excellence is an expression of purpose.
+### **Distributed Systems & Platform Engineer | Founder @ Wellspring**
+ 
+I design and build production-grade distributed systems and platforms that power critical applications — reliably, securely, and at scale.
 
----
-## **🚀 MY EVOLUTION**  
-Full-Stack Development → Backend Systems → DevOps/Infrastructure → Distributed Systems Engineering (next: MS in Distributed Systems)
-
-Each step taught me a different layer. Now I see the full picture: from user interaction → backend logic → infrastructure → distributed coordination → consensus. My strength lies in architecting systems that handle failures gracefully and work seamlessly across continents.
+I don’t just build pipelines — I engineer systems that hold under real-world pressure.
 
 ---
 
-## **💡 Technical Arsenal**  
-- **Core Languages**: Go, Rust, Python — Building systems that scale and never stop
-- **Distributed Systems**: Raft consensus, leader election, replication, partitioning, CAP theorem
-- **Infrastructure & Cloud**: Kubernetes, Docker, Terraform, AWS, GCP — Multi-region orchestration
-- **Data & Messaging**:Kafka, RabbitMQ, Redis Cluster, PostgreSQL — Event-driven architectures
-- **DevOps Excellence**: Prometheus, Grafana, OpenTelemetry, distributed tracing, Observability, Security-first design
+## **🧠 Engineering Philosophy**
+1. Technology should serve humanity with excellence
+2. Every system I build is an act of service — to users and to God
+
+
+## **🏢 Wellspring**
+*Founder & Technical Lead*
+
+Building a faith-driven platform for community, connection, and digital infrastructure, with a focus on:
+- High-throughput backend systems
+- Secure, resilient infrastructure
+- Production-grade platform architecture
+  
+I lead system design, backend engineering, and infrastructure strategy — from architecture to production.
+
+## **💻 Core Languages**
+- Go (distributed systems, services)
+- Rust (performance-critical components)
+- Python (ML, orchestration, tooling)
+
+## **⚙️ Platform & Systems Expertise**  
+- **Platform & Infrastructure**: Kubernetes, Terraform, AWS, GCP, IaaS/PaaS internals
+- **Distributed Systems**: Raft consensus, fault tolerance, multi-region coordination, replication, partitioning
+- **Reliability & Observability**: Prometheus, Grafana, distributed tracing, failure recovery
+- **Security**: Embedded into SDLC, secure-by-design pipelines
+- **Data & AI/ML Excellence**: Production-ready ML pipelines, inference, and monitoring
+
+  
+## **🔄 Career Evolution**  
+Backend → Backend Systems → DevOps/Infra → SRE → Platform → Distributed Systems → Founder
+
+Each layer strengthened my ability to design and operate complex, resilient systems at scale.
+
+
+## **🚀 Featured Engineering Projects** 
+### **🌌 Helios — High-Throughput Job Execution Engine**
+
+- Asynchronous job processing with priority queues, retries, and dead-letter queues
+- Designed for high-throughput, fault-tolerant distributed execution
+- Exactly-once execution guarantees
+- REST + gRPC APIs, worker pools, real-time streaming
+  
+**Stack**: Go, Python, PostgreSQL, Redis, RabbitMQ, Kubernetes
+[Explore Helios →](https://github.com/nickemma/helios)
+
+### **🌍 Meridian — Geo-Distributed Key-Value Store**
+
+- Tunable consistency (strong, eventual, causal) per request
+- Raft-based consensus for leader election and log replication
+- Vector clocks for conflict resolution
+- Chaos testing for partitions and failures
+  
+**Stack**: Go, Rust, Python, gRPC, Docker, Prometheus
+[Explore Meridian →](https://github.com/nickemma/meridian)
+
+
+### **🧩 Linera — Observability & Platform Intelligence**
+
+- Unified ingestion (metrics, logs, traces)
+- Correlation engine + anomaly detection
+- SLO-based alerting
+- Multi-region deployment
+  
+**Stack**: Go, Rust, Python, ClickHouse, TimescaleDB, Kubernetes, Jaeger, Argo CD
+[Explore Linera →](https://github.com/nickemma/linera)
   
 ---
 
-## **🛠️ Featured Engineering Projects** 
-### **🌍 GeoStream**  
-*Geo-Distributed Platform with Intelligent Routing & Consensus*  
-- Multi-region architecture with <100ms P99 latency across 5+ AWS/GCP regions
-- Raft consensus implementation for leader election and state synchronization
-- Intelligent routing algorithm balancing latency, cost, and availability
-- Automatic failover with <3s recovery time
-- Stack: Go, Rust, Kubernetes, gRPC, Raft, Terraform
-- [Explore GeoStream →](https://github.com/nickemma/geostream)
+## **👨‍🏫 Mentorship**
+*Mentored 40+ engineers across backend, frontend, and automation — focusing on real-world systems, not toy projects.*
 
-### **📊 CodeSync-AI**  
-*Distributed Code Review Platform with Real-Time Collaboration*  
-- CRDT-based collaborative editing for conflict-free concurrent reviews
-- Async message processing with RabbitMQ (exactly-once semantics)
-- Distributed caching with Redis Cluster (80% latency reduction)
-- Event sourcing for audit trails and time-travel debugging
-- Processing 1K+ reviews/day with high availability
-- Stack: Python, Go, TypeScript, React, PostgreSQL, Redis, RabbitMQ
-- [Explore CodeSync-AI →](https://github.com/nickemma/CodeSync-AI)  
-
----
-## 🎯 ENGINEERING PHILOSOPHY
-*"I believe good engineering is an act of service. Build systems that handle failures gracefully, scale responsibly, maintain consistency across regions, and solve real problems."*
-
-The future belongs to engineers who understand distributed systems — creating infrastructure that not only runs at scale but also runs reliably, consistently, and with strong guarantees even when things fail.
-
-## 📚 CURRENT RESEARCH
-- MIT 6.824 Distributed Systems course (implementing Raft, distributed KV stores)
-- Reading foundational papers: Raft, Paxos, Spanner, Dynamo, Bigtable
-- Systems programming with Rust for performance-critical distributed systems
-- Implementing consensus protocols from scratch
-- Exploring CAP theorem implications and consistency trade-offs
-  
-## **🌍 LET'S BUILD FAULT-TOLERANT SYSTEMS**  
-Passionate about solving the hardest problems in distributed systems. Always excited to collaborate on systems that push the boundaries of reliability, consistency, and global scale.
 
   📧 [nicholasemmanuel321@gmail.com](mailto:nicholasemmanuel321@gmail.com)  
-  🐦 [Twitter:](https://twitter.com/techieemma)  
-  🔗 [LinkedIn:](https://linkedin.com/in/techieemma)  
-  🌐 [Portfolio:](https://portfolio-v2-azure-nu.vercel.app/)  
-  📝 [Technical Blog: - Sharing insights on distributed systems, consensus protocols, and lessons from production](https://techieemma.medium.com/) 
+  🐦 [Twitter/X:](https://twitter.com/techieemma)   
+🔗 [LinkedIn:](https://linkedin.com/in/techieemma)   
+  📝 [Technical Blog: - Medium](https://techieemma.medium.com/) 
 
 ---
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> "Whatever you do, work at it with all your heart, as working for the Lord." - Colossians 3:23
-
-
-Architecting distributed systems that scale globally and fail gracefully. Let's engineer reliable infrastructure together! 🚀
-
----
-
-🏆 *"For I know the plans I have for you," declares the Lord, "plans to prosper you and not to harm you, to give you hope and a future." - Jeremiah 29:11*
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 🏆 *"For I know the plans I have for you," declares the Lord, "plans to prosper you and not to harm you, to give you hope and a future." - Jeremiah 29:11*
