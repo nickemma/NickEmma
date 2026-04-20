@@ -43,16 +43,6 @@ Each layer strengthened my ability to design and operate complex, resilient syst
 
 
 ## **🚀 Featured Engineering Projects** 
-### **🌌 Helios — High-Throughput Job Execution Engine**
-
-- Asynchronous job processing with priority queues, retries, and dead-letter queues
-- Designed for high-throughput, fault-tolerant distributed execution
-- Exactly-once execution guarantees
-- REST + gRPC APIs, worker pools, real-time streaming
-  
-**Stack**: Go, Python, PostgreSQL, Redis, RabbitMQ, Kubernetes
-[Explore Helios →](https://github.com/nickemma/helios)
-
 ### **🌍 Meridian — Geo-Distributed Key-Value Store**
 
 - Tunable consistency (strong, eventual, causal) per request
@@ -64,15 +54,16 @@ Each layer strengthened my ability to design and operate complex, resilient syst
 [Explore Meridian →](https://github.com/nickemma/meridian)
 
 
-### **🧩 Linera — Observability & Platform Intelligence**
+### **🧩 Atlas — Internal Cloud Platform & Data + Intelligence**
 
-- Unified ingestion (metrics, logs, traces)
-- Correlation engine + anomaly detection
-- SLO-based alerting
-- Multi-region deployment
+- Unified platform for running and operating distributed systems end-to-end
+- Seven integrated subsystems: Stratum, Meridian, Forge, Aegis, Helios, Vigil, Linera
+- Built-in contracts: idempotency, mTLS identity, audit logs, trace propagation
+- Automatic service scaffolding with CI/CD, SLOs, observability, and security from day one
+- Chaos-tested failure models across execution, state, and infrastructure layers
   
-**Stack**: Go, Rust, Python, ClickHouse, TimescaleDB, Kubernetes, Jaeger, Argo CD
-[Explore Linera →](https://github.com/nickemma/linera)
+**Stack**: Go, Rust, Python, Kubernetes, gRPC, PostgreSQL, ClickHouse, TimescaleDB, Redis, RabbitMQ, Prometheus, Grafana
+[Explore Atlas →](https://github.com/nickemma/atlas)
   
 ---
 
