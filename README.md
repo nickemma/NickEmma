@@ -1,80 +1,53 @@
+![ck-github](https://github.com/ChrispaixK/ChrispaixK/assets/71190715/e4242c78-5235-4ace-bb3e-76ab0337b745)
 ## Hi, I'm Nicholas Emmanuel 👋
 
-### **Distributed Systems & Platform Engineer | Founder @ Wellspring**
+### **Distributed Systems & Platform Engineer · Founder @ Wellspring**
  
-I design and build production-grade distributed systems and platforms that power critical applications — reliably, securely, and at scale.
+I design and build production-grade distributed systems and the platforms that run them — reliably, securely, and at scale. I don't just build pipelines; I engineer systems that hold under real-world pressure. Currently going deep on **software systems & cybersecurity** — building systems that are *secure by design*, not as an afterthought.
 
-I don’t just build pipelines — I engineer systems that hold under real-world pressure.
+> *Technology should serve humanity with excellence.*
 
 ---
 
-## **🧠 Engineering Philosophy**
-1. Technology should serve humanity with excellence
-2. Every system I build is an act of service — to users and to God
+### Currently
+- **Founder & Technical Lead @ Wellspring** — a faith-driven platform for community and connection. I lead system design, backend engineering, and infrastructure from architecture to production.
+- **Studying** software systems & cybersecurity (Penn MSE-SSC track) — building toward secure-systems architecture.
 
+## **💻 Core stack**
+| | |
+|---|---|
+| **Languages** | Go · Rust · Python · C |
+| **Distributed systems** | Raft consensus · replication · partitioning · fault tolerance · multi-region |
+| **Platform & infra** | Kubernetes · Terraform · AWS · GCP · gRPC |
+| **Reliability** | Prometheus · Grafana · distributed tracing · chaos engineering |
+| **Security** | secure-by-design SDLC · mTLS · zero-trust · RBAC / ABAC · secrets rotation · threat modeling |
 
-## **🏢 Wellspring**
-*Founder & Technical Lead*
+---
 
-Building a faith-driven platform for community, connection, and digital infrastructure, with a focus on:
-- High-throughput backend systems
-- Secure, resilient infrastructure
-- Production-grade platform architecture
-  
-I lead system design, backend engineering, and infrastructure strategy — from architecture to production.
-
-## **💻 Core Languages**
-- Go (distributed systems, services)
-- Rust (performance-critical components)
-- Python (ML, orchestration, tooling)
-
-## **⚙️ Platform & Systems Expertise**  
-- **Platform & Infrastructure**: Kubernetes, Terraform, AWS, GCP, IaaS/PaaS internals
-- **Distributed Systems**: Raft consensus, fault tolerance, multi-region coordination, replication, partitioning
-- **Reliability & Observability**: Prometheus, Grafana, distributed tracing, failure recovery
-- **Security**: Embedded into SDLC, secure-by-design pipelines
-- **Data & AI/ML Excellence**: Production-ready ML pipelines, inference, and monitoring
-
-  
 ## **🔄 Career Evolution**  
-Backend → Backend Systems → DevOps/Infra → SRE → Platform → Distributed Systems → Founder
+Backend Systems → DevOps/Infra → SRE → Platform → Distributed Systems → Cybersecurity → Founder
 
 Each layer strengthened my ability to design and operate complex, resilient systems at scale.
 
 
-## **🚀 Featured Engineering Projects** 
-### **🌍 Meridian — Geo-Distributed Key-Value Store**
+## **🚀 Featured work** 
+**[Explore Meridian →](https://github.com/nickemma/meridian)** — Geo-distributed key-value store where consistency is a *per-request* choice: strong (Raft quorum), causal (vector clocks), or eventual (gossip). On top of it, a secrets platform with a WASM-sandboxed policy engine and credential rotation. Raft built from scratch; Rust LSM storage; chaos-tested.
+`Go · Rust · Python · gRPC · Prometheus`
 
-- Tunable consistency (strong, eventual, causal) per request
-- Raft-based consensus for leader election and log replication
-- Vector clocks for conflict resolution
-- Chaos testing for partitions and failures
-  
-**Stack**: Go, Rust, Python, gRPC, Docker, Prometheus
-[Explore Meridian →](https://github.com/nickemma/meridian)
+**[Explore ATLAS →](https://github.com/nickemma/atlas)** — Internal cloud platform built from first principles. Seven subsystems under shared contracts — idempotency, mTLS identity, audit logs, trace propagation. Scaffold a service and it gets cryptographic identity, CI/CD, secrets injection, SLOs, and observability automatically.
+`Go · Rust · Python · Kubernetes · gRPC · PostgreSQL`
 
 
-### **🧩 Atlas — Internal Cloud Platform & Data + Intelligence**
-
-- Unified platform for running and operating distributed systems end-to-end
-- Seven integrated subsystems: Stratum, Meridian, Forge, Aegis, Helios, Vigil, Linera
-- Built-in contracts: idempotency, mTLS identity, audit logs, trace propagation
-- Automatic service scaffolding with CI/CD, SLOs, observability, and security from day one
-- Chaos-tested failure models across execution, state, and infrastructure layers
-  
-**Stack**: Go, Rust, Python, Kubernetes, gRPC, PostgreSQL, ClickHouse, TimescaleDB, Redis, RabbitMQ, Prometheus, Grafana
-[Explore Atlas →](https://github.com/nickemma/atlas)
-  
+**[Explore SYNAPSE-AI →](https://github.com/nickemma/synapse-ai)** *(building in public)* — Secure neurotechnology data platform. An end-to-end encrypted neural-signal pipeline with differential-privacy analytics and consent-gated, audited access — secure by design from the threat model up.
+`Rust · Go · Python · mTLS`
+ 
 ---
 
 ## **👨‍🏫 Mentorship**
-*Mentored 40+ engineers across backend, frontend, and automation — focusing on real-world systems, not toy projects.*
+*Mentored 40+ engineers across backend, frontend, and infrastructure — focused on real-world systems and production tradeoffs, not toy projects.*
 
-
-  📧 [nicholasemmanuel321@gmail.com](mailto:nicholasemmanuel321@gmail.com)  
-  🐦 [Twitter/X:](https://twitter.com/techieemma)   
-🔗 [LinkedIn:](https://linkedin.com/in/techieemma)   
-  📝 [Technical Blog: - Medium](https://techieemma.medium.com/) 
+### Connect
+[Email](mailto:nicholasemmanuel321@gmail.com) · [X](https://twitter.com/techieemma) · [LinkedIn](https://linkedin.com/in/techieemma) · [Medium](https://techieemma.medium.com/)
 
 ---
 
