@@ -1,33 +1,36 @@
 ![ck-github](https://github.com/ChrispaixK/ChrispaixK/assets/71190715/e4242c78-5235-4ace-bb3e-76ab0337b745)
 ## Hi, I'm Nicholas Emmanuel 👋
 
-### **Distributed Systems & Platform Engineer · Founder @ Wellspring**
+### **Systems Engineer & Founder @ Wellspring | Distributed Systems · Platform Engineering · AI Infrastructure · Secure Systems**
  
-I design and build production-grade distributed systems and the platforms that run them — reliably, securely, and at scale. I don't just build pipelines; I engineer systems that hold under real-world pressure. Currently going deep on **software systems & cybersecurity** — building systems that are *secure by design*, not as an afterthought.
+I design and build production-grade distributed systems, platforms, and AI infrastructure that operate reliably, securely, and at scale. 
+I don't just build applications; I engineer the foundations that applications depend on and is resilient under real-world constraints: failures, scale, security threats, and evolving workloads. Currently going deep on **software systems, AI infrastructure, & cybersecurity** — building systems that are *secure by design*, not as an afterthought.
 
 > *Technology should serve humanity with excellence.*
 
 ---
 
 ### Currently
-- **Founder & Technical Lead @ Wellspring** — a faith-driven platform for community and connection. I lead system design, backend engineering, and infrastructure from architecture to production.
-- **Studying** software systems & cybersecurity (Penn MSE-SSC track) — building toward secure-systems architecture.
+- **Founder & Technical Lead @ Wellspring** — building a faith-driven platform for community and connection. Leading architecture, backend systems, infrastructure, and production engineering from design to deployment.
+- **Graduate study in Software Systems & Cybersecurity** esearching secure systems architecture, distributed computing, and trustworthy software systems.
+- **Building toward** secure AI systems, scalable infrastructure, and next-generation platforms.
 
 ## **💻 Core stack**
 | | |
 |---|---|
 | **Languages** | Go · Rust · Python · C |
 | **Distributed systems** | Raft consensus · replication · partitioning · fault tolerance · multi-region |
-| **Platform & infra** | Kubernetes · Terraform · AWS · GCP · gRPC |
-| **Reliability** | Prometheus · Grafana · distributed tracing · chaos engineering |
-| **Security** | secure-by-design SDLC · mTLS · zero-trust · RBAC / ABAC · secrets rotation · threat modeling |
+| **Platform Engineering** | Kubernetes · Terraform · AWS · GCP · gRPC · service orchestration · internal developer platforms |
+| **AI Infrastructure** | ML platforms · model serving · distributed inference · AI workload orchestration · data pipelines · GPU-aware systems |
+| **Reliability Engineering** | SLOs · Prometheus · Grafana · distributed tracing · chaos engineering · observability |
+| **Security Engineering** | Secure-by-design SDLC · threat modeling · mTLS · zero trust · RBAC/ABAC · secrets management · identity systems |
 
 ---
 
 ## **🔄 Career Evolution**  
-Backend Systems → DevOps/Infra → SRE → Platform → Distributed Systems → Cybersecurity → Founder
+**Backend Engineer → Systems Engineer → Infrastructure/Platform Engineer → Distributed Systems Engineer → AI Infrastrature Engineer → Security → Founder**
 
-Each layer strengthened my ability to design and operate complex, resilient systems at scale.
+Each layer strengthened my ability to design, operate, and secure complex systems at scale.
 
 
 ## **🚀 Featured work** 
@@ -37,10 +40,6 @@ Each layer strengthened my ability to design and operate complex, resilient syst
 **[Explore ATLAS →](https://github.com/nickemma/atlas)** — Internal cloud platform built from first principles. Seven subsystems under shared contracts — idempotency, mTLS identity, audit logs, trace propagation. Scaffold a service and it gets cryptographic identity, CI/CD, secrets injection, SLOs, and observability automatically.
 `Go · Rust · Python · Kubernetes · gRPC · PostgreSQL`
 
-
-**[Explore SYNAPSE-AI →](https://github.com/nickemma/synapse-ai)** *(building in public)* — Secure neurotechnology data platform. An end-to-end encrypted neural-signal pipeline with differential-privacy analytics and consent-gated, audited access — secure by design from the threat model up.
-`Rust · Go · Python · mTLS`
- 
 ---
 
 ## **👨‍🏫 Mentorship**
