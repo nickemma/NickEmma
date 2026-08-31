@@ -14,7 +14,7 @@ I build secure, reliable distributed systems and AI infrastructure at scale: con
 - **Building the flagship systems** of my [Engineering Blueprint](https://github.com/nickemma/Nicholas-Engineering-Blueprint) —
   A public, versioned handbook of six interconnected infrastructure systems.
 - **Incoming graduate student — MSE, Software Systems & Cybersecurity** (UPenn): secure systems architecture, distributed computing, trustworthy software.
-- **Co-founder @ Wellspring** — architecting the infrastructure of a faith-driven platform.
+- **Co-founder @ Truth4Daily** — architecting the infrastructure of a faith-driven platform.
 
 ### The systems
 | System | What it proves |
