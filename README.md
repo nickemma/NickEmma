@@ -2,9 +2,9 @@
 
 ## Hi, I'm Nicholas Emmanuel 👋
 
-### **Distributed Systems & AI Infrastructure Engineer — secure by design**
+### **A systems engineer building reliable infrastructure for software and AI.**
 
-I build secure, reliable distributed systems and AI infrastructure at scale: consensus engines, distributed storage, internal platforms, and LLM inference systems — engineered for failure, scale, and security from the first commit.
+My work focuses on distributed systems, storage, platform engineering, model serving, and security. I’m particularly interested in the boundary between a system that works in a demo and one that remains understandable, observable, and trustworthy under failure.
 
 > *Technology should serve humanity with excellence.*
 
@@ -13,8 +13,7 @@ I build secure, reliable distributed systems and AI infrastructure at scale: con
 ### Currently
 - **Building the flagship systems** of my [Engineering Blueprint](https://github.com/nickemma/Nicholas-Engineering-Blueprint) —
   A public, versioned handbook of six interconnected infrastructure systems.
-- **Incoming graduate student — MSE, Software Systems & Cybersecurity** (UPenn): secure systems architecture, distributed computing, trustworthy software.
-- **Co-founder @ Truth4Daily** — architecting the infrastructure of a faith-driven platform.
+- **founder @ Truth4Daily** — architecting the infrastructure of a faith-driven platform.
 
 ### The systems
 | System | What it proves |
